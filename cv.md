@@ -1,10 +1,10 @@
 # Sayat Orazov
 
 ## Contact info:
-Email:orazov50293@gmail.com
-LinkedIn: https://www.linkedin.com/in/sayat-orazov-700810134
-Instagram: orazov_sayat
-Telegram: @sayatorazov
++ Email:orazov50293@gmail.com
++ LinkedIn: https://www.linkedin.com/in/sayat-orazov-700810134
++ Instagram: orazov_sayat
++ Telegram: @sayatorazov
 
 ## Summary:
 My goal is to become qualified enough to work as Software Engineer. Improve my skills and gain some knowledge in order to build an outstanding career. I have been always interested in learning new things and creating a cool stuff. 
