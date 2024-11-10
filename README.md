@@ -1,2 +1,2 @@
-# rsschool-cv
+# sayat-orazov
 CV Markdown task
