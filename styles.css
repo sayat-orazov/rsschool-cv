@@ -4,7 +4,7 @@ body {
     padding: 0;
     line-height: 1.6;
     background-color: #f4f4f4;
-    color: #git 333;
+    color: #000;
     padding: 20px;
 }
 
@@ -27,8 +27,8 @@ a:hover {
 
 .contact-info, .skills, .code-examples, .experience, .education, .language {
     padding: 15px;
-    background-color: #fff;
+    background-color: #ffff;
     border-radius: 5px;
     margin-bottom: 15px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 100, 0.1);
 }
