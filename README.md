@@ -1,2 +1,1 @@
-# sayat-orazov
-CV Markdown task
+https://sayat-orazov.github.io/rsschool-cv/
