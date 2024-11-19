@@ -3,8 +3,8 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #000;
+    background-color: #121212;
+    color: #e0e0e0;
     padding: 20px;
 }
 
@@ -14,10 +14,11 @@ header, section {
 
 h1, h2 {
     margin: 0;
+    color: #ffffff;
 }
 
 a {
-    color: #007bff;
+    color: #1e90ff;
     text-decoration: none;
 }
 
@@ -27,8 +28,31 @@ a:hover {
 
 .contact-info, .skills, .code-examples, .experience, .education, .language {
     padding: 15px;
-    background-color: #ffff;
+    background-color: #1f1f1f;
     border-radius: 5px;
     margin-bottom: 15px;
-    box-shadow: 0 2px 4px rgba(0, 0, 100, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.contact-info, .skills, .code-examples, .experience, .education, .language ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.contact-info p, .summary p, .skills li, .code-examples p, .experience p, .education p, .language p {
+    color: #cfcfcf; /* Light gray text inside sections */
+}
+
+.contact-info a, .skills a, .code-examples a, .experience a, .education a, .language a {
+    color: #ffa07a; /* Soft orange for links inside sections */
+}
+
+.contact-info a:hover, .skills a:hover, .code-examples a:hover, .experience a:hover, .education a:hover, .language a:hover {
+    color: #ff6347; /* Brighter orange on hover */
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #ffcc00; /* Gold-like color for name header */
 }
